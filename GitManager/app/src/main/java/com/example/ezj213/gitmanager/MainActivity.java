@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 //        asdasdasadasdasdasdsa
 
         System.out.println("v1.0.0");
+        System.out.println("third");
     }
 }
